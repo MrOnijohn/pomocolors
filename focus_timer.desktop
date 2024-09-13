@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Focus Timer
+Exec=/home/john/Nextcloud/AIExperiment/pomoslide/dist/focus_timer
+Icon=/home/john/Nextcloud/AIExperiment/pomoslide/focus_timer_icon.ico
+Type=Application
+Categories=Utility;
